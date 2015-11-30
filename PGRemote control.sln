@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGRemote control", "PGRemote control\PGRemote control.csproj", "{BE76A514-410A-4D04-A5FB-27FA7331296B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B66FDF6B-AB6E-4A75-846B-3EF59D908FD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE76A514-410A-4D04-A5FB-27FA7331296B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE76A514-410A-4D04-A5FB-27FA7331296B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE76A514-410A-4D04-A5FB-27FA7331296B}.Debug|x64.ActiveCfg = Debug|x64
+		{BE76A514-410A-4D04-A5FB-27FA7331296B}.Debug|x64.Build.0 = Debug|x64
+		{BE76A514-410A-4D04-A5FB-27FA7331296B}.Debug|x86.ActiveCfg = Debug|x86
+		{BE76A514-410A-4D04-A5FB-27FA7331296B}.Debug|x86.Build.0 = Debug|x86
+		{BE76A514-410A-4D04-A5FB-27FA7331296B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE76A514-410A-4D04-A5FB-27FA7331296B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE76A514-410A-4D04-A5FB-27FA7331296B}.Release|x64.ActiveCfg = Release|x64
+		{BE76A514-410A-4D04-A5FB-27FA7331296B}.Release|x64.Build.0 = Release|x64
+		{BE76A514-410A-4D04-A5FB-27FA7331296B}.Release|x86.ActiveCfg = Release|x86
+		{BE76A514-410A-4D04-A5FB-27FA7331296B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
